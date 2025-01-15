@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ummuhanı</h1>
 <h3 align="center">A passionate java developer and I live in Turkey</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ummuhancot&label=Profile%20views&color=0e75b6&style=flat" alt="ummuhancot" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ummuhancot" alt="ummuhancot" /></a> </p>
-
 - 🌱 I'm currently learning and producing projects **full stack java development**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ummuhancot](https://github.com/ummuhancot)
