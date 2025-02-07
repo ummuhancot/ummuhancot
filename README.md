@@ -1,4 +1,4 @@
-[![MasterHead]](https://tr.pinterest.com/pin/480548222757145109/)
+[![MasterHead]](https://javatrainingcalifornia.wordpress.com/wp-content/uploads/2021/02/untitled-design-48.png?w=768)
 <h1 align="center">Hi 👋, I'm Ummuhanı</h1>
 <h3 align="center">A passionate java developer and I live in Turkey</h3>
 
