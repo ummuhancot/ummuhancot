@@ -1,4 +1,4 @@
-[![MasterHead]]([https://javatrainingcalifornia.wordpress.com/wp-content/uploads/2021/02/untitled-design-48.png?w=768](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSDBQN6dIZggWi_iAi-sTIii8VvSH4guRtdg&s))
+[![MasterHead]](https://media.licdn.com/dms/image/v2/D5616AQGWLvy26b3Odw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1738933661493?e=1744243200&v=beta&t=8X6_txGAkVMpKe_cwF98BkewatzGx8Fh5js6HzTYt78)
 <h1 align="center">Hi 👋, I'm Ummuhanı</h1>
 <h3 align="center">A passionate java developer and I live in Turkey</h3>
 
